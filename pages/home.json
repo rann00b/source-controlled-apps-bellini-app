@@ -1,0 +1,69 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "Navigation",
+      "nodeName": "bln-navigation",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "wXD9rJ"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": ""
+      },
+      "styles": [],
+      "children": [],
+      "type": "core-component",
+      "id": "navigation",
+      "expressions": [],
+      "mapLines": []
+    },
+    {
+      "name": "Table",
+      "nodeName": "bln-table",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "QIPKlm"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": ""
+      },
+      "styles": [],
+      "children": [],
+      "type": "core-component",
+      "id": "table",
+      "expressions": [],
+      "mapLines": []
+    }
+  ]
+}
